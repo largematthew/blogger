@@ -486,3 +486,1053 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 39ms (Views: 36.1ms | ActiveRecord: 0.3ms)
 
 
+Started GET "/articles/new" for ::1 at 2016-08-12 15:01:45 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  
+SyntaxError (/Users/largematthew/Google_Drive/projects/blogger/app/controllers/articles_controller.rb:9: `@' without identifiers is not allowed as an instance variable name
+/Users/largematthew/Google_Drive/projects/blogger/app/controllers/articles_controller.rb:9: syntax error, unexpected end-of-input):
+  
+app/controllers/articles_controller.rb:9: `@' without identifiers is not allowed as an instance variable name
+app/controllers/articles_controller.rb:9: syntax error, unexpected end-of-input
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.5ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.2ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (12.5ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (125.7ms)
+Started GET "/articles/new" for ::1 at 2016-08-12 15:07:24 -0400
+  
+SyntaxError (/Users/largematthew/Google_Drive/projects/blogger/app/controllers/articles_controller.rb:9: `@' without identifiers is not allowed as an instance variable name
+/Users/largematthew/Google_Drive/projects/blogger/app/controllers/articles_controller.rb:9: syntax error, unexpected end-of-input):
+  
+app/controllers/articles_controller.rb:9: `@' without identifiers is not allowed as an instance variable name
+app/controllers/articles_controller.rb:9: syntax error, unexpected end-of-input
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.9ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (79.3ms)
+Started GET "/" for ::1 at 2016-08-13 15:48:20 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (13.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/railties-5.0.0/lib/rails/templates/rails/welcome/index.html.erb (17.3ms)
+Completed 200 OK in 118ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 15:48:26 -0400
+  
+SyntaxError (/Users/largematthew/Google_Drive/projects/blogger/app/controllers/articles_controller.rb:9: `@' without identifiers is not allowed as an instance variable name
+/Users/largematthew/Google_Drive/projects/blogger/app/controllers/articles_controller.rb:9: syntax error, unexpected end-of-input):
+  
+app/controllers/articles_controller.rb:9: `@' without identifiers is not allowed as an instance variable name
+app/controllers/articles_controller.rb:9: syntax error, unexpected end-of-input
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.4ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (101.0ms)
+Started GET "/articles" for ::1 at 2016-08-13 15:48:56 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (5.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 473ms (Views: 460.3ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/articles/5" for ::1 at 2016-08-13 15:49:03 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mArticle Load (0.4ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 101ms (Views: 21.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 15:49:05 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.5ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 42ms (Views: 38.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 15:49:23 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.8ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    1: <h1> Create a new article </h1>
+    2: 
+    3: <%= form_for(@article) do |f| %>
+    4:   <ul>
+    5:   <% @article.errors.full_messages.each do |error| %>
+    6:     <li><%= error %></li>
+  
+app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb___1071420613926058766_70203055582020'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.4ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (75.5ms)
+Started GET "/articles/new" for ::1 at 2016-08-13 15:50:08 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (81.0ms)
+Completed 200 OK in 116ms (Views: 105.9ms | ActiveRecord: 0.8ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:50:14 -0400
+  
+AbstractController::ActionNotFound (The action 'create' could not be found for ArticlesController):
+  
+actionpack (5.0.0) lib/abstract_controller/base.rb:121:in `process'
+actionview (5.0.0) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.0.0) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (5.0.0) lib/action_controller/metal.rb:262:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `call'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.8ms)
+Started POST "/articles" for ::1 at 2016-08-13 15:51:05 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"P0edUnuIT3fEyL5bRaarw//G2hfylHR23bOLziOBMnr6tb4wOARDAajnXBrpmnbgl0dol76CSBG2ZLonstMyvQ==", "article"=>{"title"=>"Puppy", "body"=>"Dogs"}, "commit"=>"Create Article"}
+No template found for ArticlesController#create, rendering head :no_content
+Completed 204 No Content in 62ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:51:15 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"P0edUnuIT3fEyL5bRaarw//G2hfylHR23bOLziOBMnr6tb4wOARDAajnXBrpmnbgl0dol76CSBG2ZLonstMyvQ==", "article"=>{"title"=>"Puppy", "body"=>"Dogs"}, "commit"=>"Create Article"}
+No template found for ArticlesController#create, rendering head :no_content
+Completed 204 No Content in 64ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:51:19 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"P0edUnuIT3fEyL5bRaarw//G2hfylHR23bOLziOBMnr6tb4wOARDAajnXBrpmnbgl0dol76CSBG2ZLonstMyvQ==", "article"=>{"title"=>"Puppy", "body"=>"Dogs"}, "commit"=>"Create Article"}
+No template found for ArticlesController#create, rendering head :no_content
+Completed 204 No Content in 63ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 15:51:28 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 47ms (Views: 38.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 15:51:31 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 53ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:51:36 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"X64ulTuY6ShODt+hDHSRJsTSGdSLtHMVM9KjDKGaMXVHR2QWL3ucPcXg+11LPtKX1wDOtqHwZXj1ELoiQ8FblQ==", "article"=>{"title"=>"Puppy", "body"=>"dog"}, "commit"=>"Create Article"}
+No template found for ArticlesController#create, rendering head :no_content
+Completed 204 No Content in 65ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 15:51:48 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 26ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:51:59 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1JjJwDa+ygJk2RD9xG40JEzkMFlv/cuaokGEZuH6o1ARauqidTLGdAj28rxoUukHJGWC2SPr9/3JlrWPcKijlw==", "article"=>{"title"=>"Gravy", "body"=>"Gravy rolls are tasty af m8"}, "commit"=>"Create Article"}
+No template found for ArticlesController#create, rendering head :no_content
+Completed 204 No Content in 64ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 15:52:35 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 27ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:52:46 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3KaqfkqqyYIGdI74Sqpl652UxnQyysg/Bt685FOOOcwZVIkcCSbF9GpbbLnmlrjI9RV09H7c9FhtCY0Nwtw5Cw==", "article"=>{"title"=>"Gravy rolls", "body"=>"Gravy rolls are tasty af m8"}, "commit"=>"Create Article"}
+No template found for ArticlesController#create, rendering head :no_content
+Completed 204 No Content in 67ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 15:53:40 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 39ms (Views: 29.2ms | ActiveRecord: 0.7ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 15:53:52 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"dbCgrluCiqIgc/c6revZGDXar20zdCe/Ji3FDkoYsAKwQoPMGA6G1ExcFXsB1wQ7XVsd7X9iG9hN+vTn20qwxQ==", "article"=>{"title"=>"Gravy rolls", "body"=>"Gravy rolls are tasty af m8"}, "commit"=>"Create Article"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+RuntimeError ():
+  
+app/controllers/articles_controller.rb:12:in `create'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.1ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (82.9ms)
+Started POST "/articles" for ::1 at 2016-08-13 15:56:39 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"dbCgrluCiqIgc/c6revZGDXar20zdCe/Ji3FDkoYsAKwQoPMGA6G1ExcFXsB1wQ7XVsd7X9iG9hN+vTn20qwxQ==", "article"=>{"title"=>"Gravy rolls", "body"=>"Gravy rolls are tasty af m8"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (15.3ms)[0m  [1m[32mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Gravy rolls"], ["body", "Gravy rolls are tasty af m8"], ["created_at", 2016-08-13 19:56:39 UTC], ["updated_at", 2016-08-13 19:56:39 UTC]]
+  [1m[35m (2.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/6
+Completed 302 Found in 30ms (ActiveRecord: 18.1ms)
+
+
+Started GET "/articles/6" for ::1 at 2016-08-13 15:56:39 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 25ms (Views: 21.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 15:56:41 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 35ms (Views: 32.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:31:01 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 51ms (Views: 45.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 16:31:02 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 62ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 16:31:13 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FwVII0Rp9Q8swE1y2criiTHZ9s8phVIDmDRyiu6D21gP7AKgUIqAGqcuaY6egKE4IgshrQPBRG5e9mukDNixuA==", "article"=>{"title"=>"Gator", "body"=>"Is the worst dog in the world"}, "commit"=>"Create Article"}
+Completed 500 Internal Server Error in 37ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `article_params' for #<ArticlesController:0x007fb2d4aa8258>):
+  
+app/controllers/articles_controller.rb:12:in `create'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.6ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (112.7ms)
+Started POST "/articles" for ::1 at 2016-08-13 16:32:06 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FwVII0Rp9Q8swE1y2criiTHZ9s8phVIDmDRyiu6D21gP7AKgUIqAGqcuaY6egKE4IgshrQPBRG5e9mukDNixuA==", "article"=>{"title"=>"Gator", "body"=>"Is the worst dog in the world"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Gator"], ["body", "Is the worst dog in the world"], ["created_at", 2016-08-13 20:32:06 UTC], ["updated_at", 2016-08-13 20:32:06 UTC]]
+  [1m[35m (58.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/7
+Completed 302 Found in 79ms (ActiveRecord: 59.7ms)
+
+
+Started GET "/articles/7" for ::1 at 2016-08-13 16:32:06 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 28ms (Views: 23.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:32:08 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.5ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 34ms (Views: 30.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles/1" for ::1 at 2016-08-13 16:33:36 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 26.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/1" for ::1 at 2016-08-13 16:37:26 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 47ms (Views: 34.4ms | ActiveRecord: 0.8ms)
+
+
+Started DELETE "/articles/1" for ::1 at 2016-08-13 16:37:28 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Ogp9fWfoCLXh5przneL7UmnQQ8vccgvAEYqGsabxgfH/+F4fJGQEw43JeLIx3iZxAVHxS5BkN6d6XbdYN6OBNg==", "id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 1]]
+  [1m[35m (5.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/1
+Completed 302 Found in 9ms (ActiveRecord: 5.9ms)
+
+
+Started GET "/articles/1" for ::1 at 2016-08-13 16:37:28 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.3ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Article with 'id'=1):
+  
+app/controllers/articles_controller.rb:7:in `show'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.9ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (79.4ms)
+Started GET "/articles/" for ::1 at 2016-08-13 16:37:55 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (12.3ms)
+Completed 200 OK in 39ms (Views: 37.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/2" for ::1 at 2016-08-13 16:39:37 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.1ms)
+
+
+  
+SyntaxError (/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:3: syntax error, unexpected '}', expecting =>
+...ally wanna purge this one m9?"});@output_buffer.safe_append='
+...                               ^
+/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:5: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:7: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/show.html.erb:3: syntax error, unexpected '}', expecting =>
+app/views/articles/show.html.erb:5: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/show.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (10.7ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (80.7ms)
+Started GET "/articles/2" for ::1 at 2016-08-13 16:39:53 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.1ms)
+
+
+  
+SyntaxError (/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:3: syntax error, unexpected '}', expecting =>
+...ally wanna purge this one m9?"} );@output_buffer.safe_append...
+...                               ^
+/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:5: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:7: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/show.html.erb:3: syntax error, unexpected '}', expecting =>
+app/views/articles/show.html.erb:5: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/show.html.erb:7: syntax error, unexpected keyword_end, expecting ')'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.2ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (78.8ms)
+Started GET "/articles/2" for ::1 at 2016-08-13 16:40:52 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.1ms)
+
+
+  
+SyntaxError (/Users/largematthew/Google_Drive/projects/blogger/app/views/articles/show.html.erb:3: syntax error, unexpected '}', expecting =>
+...ally wanna purge this one m9?"}, method: :delete );@output_b...
+...                               ^):
+  
+app/views/articles/show.html.erb:3: syntax error, unexpected '}', expecting =>
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (9.5ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (82.1ms)
+Started GET "/articles/2" for ::1 at 2016-08-13 16:41:19 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 35ms (Views: 31.9ms | ActiveRecord: 0.1ms)
+
+
+Started DELETE "/articles/2" for ::1 at 2016-08-13 16:41:23 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"QjyqvVm1pTF6qn5+9UB4wV1mZ0ky1ruIB25mIynzBcyHzonfGjmpRxaFnD9ZfKXiNefVyX7Ah+9suVfKuKEFCw==", "id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[31mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 2]]
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/2
+Completed 302 Found in 6ms (ActiveRecord: 2.9ms)
+
+
+Started GET "/articles/2" for ::1 at 2016-08-13 16:41:23 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Completed 404 Not Found in 1ms (ActiveRecord: 0.3ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Article with 'id'=2):
+  
+app/controllers/articles_controller.rb:7:in `show'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.7ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (81.2ms)
+Started GET "/articles/" for ::1 at 2016-08-13 16:41:44 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 26ms (Views: 23.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/7" for ::1 at 2016-08-13 16:41:48 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[36mArticle Load (0.4ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 32ms (Views: 27.5ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/articles/7" for ::1 at 2016-08-13 16:41:52 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"mhisXSVp5c94S8GyMQxw3sYlEHd2RdBF/9KxN1E5XF1f6o8/ZuXpuRRkI/OdMK39rqSi9zpT7CKUBYDewGtcmg==", "id"=>"7"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 7]]
+  [1m[35m (5.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/7
+Completed 302 Found in 8ms (ActiveRecord: 5.8ms)
+
+
+Started GET "/articles/7" for ::1 at 2016-08-13 16:41:52 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+Completed 404 Not Found in 2ms (ActiveRecord: 0.3ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Article with 'id'=7):
+  
+app/controllers/articles_controller.rb:7:in `show'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.3ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.5ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (82.9ms)
+Started GET "/articles/" for ::1 at 2016-08-13 16:41:57 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 25ms (Views: 21.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/6" for ::1 at 2016-08-13 16:42:38 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 35ms (Views: 22.8ms | ActiveRecord: 1.0ms)
+
+
+Started DELETE "/articles/6" for ::1 at 2016-08-13 16:42:43 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"VhnxiOw1nm9nQY1eOyq/1xGfEaADtzAHuUxQF7oiIdaT69Lqr7mSGQtubx+XFmL0eR6jIE+hDGDSm2H+K3AhEQ==", "id"=>"6"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[31mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 6]]
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 7ms (ActiveRecord: 3.2ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:42:43 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 37ms (Views: 34.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 16:42:45 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 31ms (Views: 29.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 16:42:54 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"A5r+H92YzwZw3aXeZEEj6HpIC2rEIXZ6YVPaoVOzGr4bc7ScyXu6E/szgSIjC2BZaZrcCO5lYBenkcOPsehwXg==", "article"=>{"title"=>"Reebs", "body"=>"is the CEO of Reebcorp."}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Reebs"], ["body", "is the CEO of Reebcorp."], ["created_at", 2016-08-13 20:42:54 UTC], ["updated_at", 2016-08-13 20:42:54 UTC]]
+  [1m[35m (1.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/8
+Completed 302 Found in 7ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/articles/8" for ::1 at 2016-08-13 16:42:54 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 23.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:42:56 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 26ms (Views: 23.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/3" for ::1 at 2016-08-13 16:44:43 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 33ms (Views: 23.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/3/edit" for ::1 at 2016-08-13 16:44:45 -0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+Completed 406 Not Acceptable in 69ms (ActiveRecord: 0.2ms)
+
+
+  
+ActionController::UnknownFormat (ArticlesController#edit is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not… nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.0.0) lib/action_controller/metal/implicit_render.rb:56:in `default_render'
+actionpack (5.0.0) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.0.0) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.0.0) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.0.0) lib/abstract_controller/base.rb:188:in `process_action'
+actionpack (5.0.0) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.0.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.0.0) lib/active_support/callbacks.rb:126:in `call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:126:in `call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:506:in `block (2 levels) in compile'
+activesupport (5.0.0) lib/active_support/callbacks.rb:455:in `call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:455:in `call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:101:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_process_action_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.0.0) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.0.0) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.0.0) lib/active_support/notifications.rb:164:in `block in instrument'
+activesupport (5.0.0) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.0.0) lib/active_support/notifications.rb:164:in `instrument'
+actionpack (5.0.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.0.0) lib/action_controller/metal/params_wrapper.rb:248:in `process_action'
+activerecord (5.0.0) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+actionpack (5.0.0) lib/abstract_controller/base.rb:126:in `process'
+actionview (5.0.0) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.0.0) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (5.0.0) lib/action_controller/metal.rb:262:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `call'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.6ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (73.8ms)
+Started GET "/articles/3/edit" for ::1 at 2016-08-13 16:48:12 -0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (2.9ms)
+  Rendered articles/edit.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 30ms (Views: 26.9ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/articles/3" for ::1 at 2016-08-13 16:48:21 -0400
+  
+AbstractController::ActionNotFound (The action 'update' could not be found for ArticlesController):
+  
+actionpack (5.0.0) lib/abstract_controller/base.rb:121:in `process'
+actionview (5.0.0) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.0.0) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (5.0.0) lib/action_controller/metal.rb:262:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:39:in `block in serve'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `each'
+actionpack (5.0.0) lib/action_dispatch/journey/router.rb:26:in `serve'
+actionpack (5.0.0) lib/action_dispatch/routing/route_set.rb:725:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.0) lib/active_record/migration.rb:552:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.0) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.0) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.0) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.0) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.3.1) lib/web_console/middleware.rb:131:in `call_app'
+web-console (3.3.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.3.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.1.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `call'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout
+  Rendered /Users/largematthew/.rvm/gems/ruby-2.2.4/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.6ms)
+Started PATCH "/articles/3" for ::1 at 2016-08-13 16:50:18 -0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qvX5mXw0mIB8oiRWKEIYyXZw9PoqyruGIfqi6xNSpkFvB9r7P7iU9hCNxheEfsXqHvFGembch+FKLZMCggCmhg==", "article"=>{"title"=>"Pokemans", "body"=>"Reebs is addicted to catching all of the pokemans all of the time plz halp plz\r\n\r\ndingos"}, "commit"=>"Update Article", "id"=>"3"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[33mUPDATE "articles" SET "body" = ?, "updated_at" = ? WHERE "articles"."id" = ?[0m  [["body", "Reebs is addicted to catching all of the pokemans all of the time plz halp plz\r\n\r\ndingos"], ["updated_at", 2016-08-13 20:50:18 UTC], ["id", 3]]
+  [1m[35m (5.8ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/3
+Completed 302 Found in 18ms (ActiveRecord: 6.9ms)
+
+
+Started GET "/articles/3" for ::1 at 2016-08-13 16:50:18 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 27ms (Views: 23.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/3/edit" for ::1 at 2016-08-13 16:52:41 -0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (2.7ms)
+  Rendered articles/edit.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 44ms (Views: 31.8ms | ActiveRecord: 0.8ms)
+
+
+Started PATCH "/articles/3" for ::1 at 2016-08-13 16:52:46 -0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Sa3Z/6YwSqcWDRDl33Ryj+YkaunEnI7gUJTlh2S7GLYCh4n81X/URJoKXI8FEqUxxfdr3u0LKdVXAkMeoewbCg==", "article"=>{"title"=>"Pokemans", "body"=>"Reebs is addicted to catching all of the pokemans all of the time plz halp plz\r\n\r\ndingos\r\n\r\nbares"}, "commit"=>"Update Article", "id"=>"3"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[33mUPDATE "articles" SET "body" = ?, "updated_at" = ? WHERE "articles"."id" = ?[0m  [["body", "Reebs is addicted to catching all of the pokemans all of the time plz halp plz\r\n\r\ndingos\r\n\r\nbares"], ["updated_at", 2016-08-13 20:52:46 UTC], ["id", 3]]
+  [1m[35m (1.8ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/3
+Completed 302 Found in 7ms (ActiveRecord: 2.3ms)
+
+
+Started GET "/articles/3" for ::1 at 2016-08-13 16:52:46 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 61ms (Views: 28.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:52:54 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 32ms (Views: 29.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/8" for ::1 at 2016-08-13 16:53:06 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 31ms (Views: 26.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/8/edit" for ::1 at 2016-08-13 16:53:07 -0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (3.2ms)
+  Rendered articles/edit.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 33ms (Views: 29.8ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/articles/8" for ::1 at 2016-08-13 16:53:19 -0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tZODqLRuSi11j9mfRsdzE2Cjl2zSxDnmarg3iJgmS+UJ4v/6zNTOIPkfN66URblCZV1gIhXSCYjsiBz/WxlWPg==", "article"=>{"title"=>"Reebs", "body"=>"is the CEO of Reebcorp. Very good sir."}, "commit"=>"Update Article", "id"=>"8"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[33mUPDATE "articles" SET "body" = ?, "updated_at" = ? WHERE "articles"."id" = ?[0m  [["body", "is the CEO of Reebcorp. Very good sir."], ["updated_at", 2016-08-13 20:53:19 UTC], ["id", 8]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/8
+Completed 302 Found in 16ms (ActiveRecord: 2.9ms)
+
+
+Started GET "/articles/8" for ::1 at 2016-08-13 16:53:19 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 26ms (Views: 23.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/8/edit" for ::1 at 2016-08-13 16:55:13 -0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (2.9ms)
+  Rendered articles/edit.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 34ms (Views: 29.4ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/articles/8" for ::1 at 2016-08-13 16:55:20 -0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tSEPrnY0KC5uuGtEpdZV9iqULJ50FIzRdkUrlLGxMMcJUHP8Do6sI+IohXV3VJ+nL2rb0LMCvL/wdQDjco4tHA==", "article"=>{"title"=>"Reebs", "body"=>"is the CEO of Reebcorp. Very good sir, very good."}, "commit"=>"Update Article", "id"=>"8"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "articles" SET "body" = ?, "updated_at" = ? WHERE "articles"."id" = ?[0m  [["body", "is the CEO of Reebcorp. Very good sir, very good."], ["updated_at", 2016-08-13 20:55:20 UTC], ["id", 8]]
+  [1m[35m (1.3ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/8
+Completed 302 Found in 9ms (ActiveRecord: 2.1ms)
+
+
+Started GET "/articles/8" for ::1 at 2016-08-13 16:55:20 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 27ms (Views: 23.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/8/edit" for ::1 at 2016-08-13 16:55:23 -0400
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (2.8ms)
+  Rendered articles/edit.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 36ms (Views: 32.6ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/articles/8" for ::1 at 2016-08-13 16:55:29 -0400
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wUsKvGg5TwmSmrhcajkx6VRieDTjIw7W4FcFjqcv0nB9OnbuEIPLBB4KVm24u/u4UZyPeiQ1PrhmZy75ZBDPqw==", "article"=>{"title"=>"Reebs", "body"=>"is the CEO of Reebcorp. Very good sir, very good, very good sir."}, "commit"=>"Update Article", "id"=>"8"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[33mUPDATE "articles" SET "body" = ?, "updated_at" = ? WHERE "articles"."id" = ?[0m  [["body", "is the CEO of Reebcorp. Very good sir, very good, very good sir."], ["updated_at", 2016-08-13 20:55:29 UTC], ["id", 8]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/8
+Completed 302 Found in 7ms (ActiveRecord: 2.5ms)
+
+
+Started GET "/articles/8" for ::1 at 2016-08-13 16:55:29 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 28ms (Views: 24.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:55:32 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 41ms (Views: 37.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/articles/new" for ::1 at 2016-08-13 16:56:41 -0400
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 33ms (Views: 22.8ms | ActiveRecord: 0.8ms)
+
+
+Started POST "/articles" for ::1 at 2016-08-13 16:56:57 -0400
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JNj6ABhwyS32D2Pg6MsEWrQcM5slxzvJeS2+lNfGf5U8MbCDDJO8OH3hRxyvgUfrp87k+Q+DLaS/76e6NZ0VdQ==", "article"=>{"title"=>"Fluffy beras", "body"=>"are similar to fluffy bears but are beras instead."}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[32mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Fluffy beras"], ["body", "are similar to fluffy bears but are beras instead."], ["created_at", 2016-08-13 20:56:57 UTC], ["updated_at", 2016-08-13 20:56:57 UTC]]
+  [1m[35m (1.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles/9
+Completed 302 Found in 8ms (ActiveRecord: 2.1ms)
+
+
+Started GET "/articles/9" for ::1 at 2016-08-13 16:56:57 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 25ms (Views: 22.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:57:01 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 33ms (Views: 30.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/9" for ::1 at 2016-08-13 16:57:04 -0400
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 43ms (Views: 37.7ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/articles/9" for ::1 at 2016-08-13 16:57:06 -0400
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"2VUZUHfAys2e8qAUg2gDoIpaP8r6SZtIq4CXgD1umTMcpzoyNEzGu/LdQlUvVN6D4tuNSrZfpy/AV6ZprDyZ9A==", "id"=>"9"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[31mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 9]]
+  [1m[35m (5.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/articles
+Completed 302 Found in 10ms (ActiveRecord: 6.1ms)
+
+
+Started GET "/articles" for ::1 at 2016-08-13 16:57:06 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 27ms (Views: 24.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2016-08-13 16:58:26 -0400
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.3ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 32ms (Views: 26.9ms | ActiveRecord: 0.8ms)
+
+
