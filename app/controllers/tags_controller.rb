@@ -8,7 +8,7 @@ class TagsController < ApplicationController
 	end
 
 	def destroy
-		@tag = Tag.find(params[:name])
+		@tag = Tag.find(params[:id])
 
 		@tag.destroy
 		redirect_to tags_path
